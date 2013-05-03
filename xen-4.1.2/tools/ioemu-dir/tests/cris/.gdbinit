@@ -1,1 +1,0 @@
-/home/jinho/xenrepo/packages/xen-4.1.2/tools/ioemu-qemu-xen/tests/cris/.gdbinit
